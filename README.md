@@ -1,4 +1,4 @@
 # bolum sonu calismasi
-## Django ogreniyorum
+## Django ögreniyorum
 
 - [ ] HTML
