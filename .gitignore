@@ -1,0 +1,49 @@
+# https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows tarafından oluşturulmuştur
+# https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows adresinde düzenleyin
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippet'leri
+
+# Visual Studio Code için Yerel Tarih
+.tarih/
+
+# Dahili Visual Studio Kod Uzantıları
+*.vsix
+
+### VisualStudioCode Yaması ###
+# Dosyaların tüm yerel geçmişini göz ardı et
+.tarih
+.iyodür
+
+### Pencereler ###
+# Windows küçük resim önbellek dosyaları
+Thumbs.db
+Thumbs.db:şifrelenebilir
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dosya dökümü
+*.yığın dökümü
+
+# Klasör yapılandırma dosyası
+[Dd]esktop.ini
+
+# Dosya paylaşımlarında kullanılan Geri Dönüşüm Kutusu
+$RECYCLE.BIN/
+
+# Windows Installer dosyaları
+*.taksi
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows kısayolları
+*.lnk
+
+# https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows'un sonu
